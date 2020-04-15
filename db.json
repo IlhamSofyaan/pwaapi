@@ -1,0 +1,24 @@
+{
+"products" :[
+{"id":1,"nama":"Southern hairy-nosed wombat","category":"Violet"},
+{"id":2,"nama":"Spotted wood sandpiper","category":"Turquoise"},
+{"id":3,"nama":"Civet, small-toothed palm","category":"Goldenrod"},
+{"id":4,"nama":"Oriental white-backed vulture","category":"Turquoise"},
+{"id":5,"nama":"Fox, north american red","category":"Aquamarine"},
+{"id":6,"nama":"Pampa gray fox","category":"Fuscia"},
+{"id":7,"nama":"Burchell's gonolek","category":"Turquoise"},
+{"id":8,"nama":"Eastern boa constrictor","category":"Pink"},
+{"id":9,"nama":"Cobra, cape","category":"Yellow"},
+{"id":10,"nama":"African polecat","category":"Indigo"},
+{"id":11,"nama":"Platypus","category":"Violet"},
+{"id":12,"nama":"Stanley bustard","category":"Maroon"},
+{"id":13,"nama":"Dromedary camel","category":"Turquoise"},
+{"id":14,"nama":"White-eye, pale","category":"Goldenrod"},
+{"id":15,"nama":"Tayra","category":"Khaki"},
+{"id":16,"nama":"Badger, eurasian","category":"Green"},
+{"id":17,"nama":"Vulture, bengal","category":"Orange"},
+{"id":18,"nama":"Royal tern","category":"Orange"},
+{"id":19,"nama":"Giant armadillo","category":"Aquamarine"},
+{"id":20,"nama":"Macaque, japanese","category":"Crimson"}]
+
+}
